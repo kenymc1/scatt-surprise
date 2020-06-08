@@ -11,7 +11,7 @@ class Home extends React.Component {
     scats: [],
   }
 
-  getScat = () => {
+  getScats = () => {
     const uid = authData.getUid();
     scatsData.getScatsByUid(uid)
     .then((scats) => this.setState({ scats }))
@@ -21,6 +21,7 @@ class Home extends React.Component {
   componentDidMount() {
     this.getScats();
   }
+
   render() {
     const { scats } = this.state;
     const buildScatCards = scats.map((scat) => (
