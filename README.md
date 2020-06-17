@@ -6,7 +6,7 @@ use this appication to select pizza topping s and get a final cost 
 ## Technology Used
 
 ## Screenshots
-![]
+![https://github.com/kenymc1/scatt-surprise/issues/1#issue-640098585]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
