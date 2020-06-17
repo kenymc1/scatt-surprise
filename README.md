@@ -1,7 +1,7 @@
 # README.md
 
 ## Description
-use this appication to select pizza topping s and get a final cost for your pizza ceation.
+A fun collection of cat poop.
 
 ## Technology Used
 
